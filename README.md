@@ -2,7 +2,8 @@
 Group project for solving file-handling challenges
 
 
-** Word Counter — Expanded Challenge**
+## Word Counter — Expanded Challenge 
+
 Build a file text analyzer that reads a text file and reports useful statistics about its contents.
 Requirements
 1.	Read the contents of a .txt file.
@@ -15,7 +16,9 @@ Requirements
 8.	Find the shortest word in the file.
 9.	Count how many times a specific word appears.
 10.	Display the results in a clear format.
-Example
+
+11.	
+# Example
 Input file:
 Python is easy to learn.
 Python is powerful.
@@ -30,22 +33,28 @@ Longest word: powerful
 Shortest word: is
 
 "Python" appears: 3 times
-Progression
-Level 1 — Basic
+
+
+# Progression
+# Level 1 — Basic
 •	Read the file.
 •	Count words.
 •	Count lines.
-Level 2 — Intermediate
+
+# Level 2 — Intermediate
 •	Count characters.
 •	Count characters without spaces.
 •	Count sentences.
-Level 3 — Problem Solving
+
+# Level 3 — Problem Solving
 •	Find the longest word.
 •	Find the shortest word.
 •	Count a specific word.
-Level 4 — Challenge
+
+# Level 4 — Challenge
 •	Make the word search case-insensitive (Python = python).
 •	Ignore punctuation when counting words.
 •	Display the top 5 most frequently used words.
-Skills Practiced
+
+# Skills Practiced
 File handling, strings, loops, conditionals, string manipulation, lists, and dictionaries/frequency counting.
